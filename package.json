@@ -1,0 +1,11 @@
+{
+  "name": "saturday-sessions",
+  "version": "1.0.0",
+  "description": "Sigma mini Hackathon Outline",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casey Hyde",
+  "license": "ISC"
+}
